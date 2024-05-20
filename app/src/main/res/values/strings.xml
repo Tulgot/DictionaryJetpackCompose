@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">dictionary_app</string>
+    <string name="can_t_get_result">Cant Get Result</string>
+</resources>
